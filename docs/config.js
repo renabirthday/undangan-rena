@@ -20,12 +20,17 @@ window.INVITATION = {
   // Album: cukup masukkan foto-01.jpg sampai foto-06.jpg ke docs/assets/album.
   // Tambah/hapus baris untuk mengubah jumlah foto. Caption bebas Bos ubah.
   gallery: [
-    { src: 'assets/album/foto-01.jpg', alt: 'Foto pertama Rena', caption: 'Senyum kecil, bahagia besar.' },
-    { src: 'assets/album/foto-02.jpg', alt: 'Foto kedua Rena', caption: 'Hari-hari yang manis.' },
-    { src: 'assets/album/foto-03.jpg', alt: 'Foto ketiga Rena', caption: 'Banyak cinta untuk Rena.' },
-    { src: 'assets/album/foto-04.jpg', alt: 'Foto keempat Rena', caption: 'Cerita kecil yang berharga.' },
-    { src: 'assets/album/foto-05.jpg', alt: 'Foto kelima Rena', caption: 'Tumbuh bersama kasih sayang.' },
-    { src: 'assets/album/foto-06.jpg', alt: 'Foto keenam Rena', caption: 'Satu tahun penuh cinta.' }
+    { src: 'assets/album/Foto-01.jpeg', alt: 'Foto pertama Rena', caption: 'Senyum kecil, bahagia besar.' },
+    { src: 'assets/album/Foto-02.jpeg', alt: 'Foto pertama Rena', caption: 'Senyum kecil, bahagia besar.' },
+    { src: 'assets/album/Foto-03.jpeg', alt: 'Foto pertama Rena', caption: 'Senyum kecil, bahagia besar.' },
+    { src: 'assets/album/Foto-04.jpeg', alt: 'Foto pertama Rena', caption: 'Senyum kecil, bahagia besar.' },
+    { src: 'assets/album/Foto-05.jpeg', alt: 'Foto pertama Rena', caption: 'Senyum kecil, bahagia besar.' },
+    { src: 'assets/album/Foto-06.jpeg', alt: 'Foto pertama Rena', caption: 'Senyum kecil, bahagia besar.' },
+    { src: 'assets/album/Foto-07.jpeg', alt: 'Foto kedua Rena', caption: 'Hari-hari yang manis.' },
+    { src: 'assets/album/Foto-08.jpeg', alt: 'Foto ketiga Rena', caption: 'Banyak cinta untuk Rena.' },
+    { src: 'assets/album/Foto-09.jpeg', alt: 'Foto keempat Rena', caption: 'Cerita kecil yang berharga.' },
+    { src: 'assets/album/foto-10.jpeg', alt: 'Foto kelima Rena', caption: 'Tumbuh bersama kasih sayang.' },
+    { src: 'assets/album/foto-11.jpeg', alt: 'Foto keenam Rena', caption: 'Satu tahun penuh cinta.' }
   ],
   // Cukup masukkan backsound.mp3 ke docs/assets. Musik mulai setelah Buka undangan.
   music: 'assets/backsound.mp3',
