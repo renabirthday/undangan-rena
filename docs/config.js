@@ -1,6 +1,6 @@
 // Isi detail yang belum tersedia. Tanggal lahir tidak dipakai sebagai tanggal acara.
 window.INVITATION = {
-  draft: true,
+  draft: false,
   name: 'Rena',
   fullName: 'Adrena Nadisya Kurniawan',
   age: 1,
