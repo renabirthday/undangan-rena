@@ -1,0 +1,26 @@
+MEMASUKKAN FOTO RENA
+
+1. Pilih foto Rena dalam format JPG/JPEG.
+2. Ubah nama file menjadi rena.jpg (pastikan bukan rena.jpg.jpg).
+3. Letakkan di folder docs/assets ini.
+4. Jika situs sudah di GitHub, unggah file ke folder docs/assets di repository.
+5. Buka ulang undangan. Foto akan otomatis menggantikan tempat foto berinisial R.
+
+Foto vertikal disarankan. Foto ditampilkan di bingkai dengan ukuran lebar:tinggi
+4:5; file aslinya tidak diubah. Jika wajah terpotong, ubah photoPosition pada
+docs/config.js, misalnya menjadi 'center top'.
+
+Jika memakai PNG/WebP, isi photo di docs/config.js dengan nama file sebenarnya.
+Galeri opsional juga diisi melalui daftar gallery pada config.js.
+
+ALBUM FOTO
+Masukkan foto-01.jpg sampai foto-06.jpg ke folder docs/assets/album.
+Petunjuk lengkap ada pada album/PETUNJUK-ALBUM.txt.
+
+BACKSOUND
+Masukkan file MP3 bernama backsound.mp3 ke folder docs/assets ini.
+Musik mulai diputar setelah tamu menekan Buka undangan. Tamu bisa menjeda atau
+memutar lagi melalui tombol musik di pojok bawah. Judul dan volume diatur
+melalui musicTitle dan musicVolume pada docs/config.js.
+
+Jika nama file atau format musik berbeda, sesuaikan nilai music di config.js.

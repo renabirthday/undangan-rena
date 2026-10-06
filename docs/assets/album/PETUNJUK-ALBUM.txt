@@ -1,0 +1,27 @@
+ALBUM FOTO RENA
+
+Masukkan foto JPG ke folder ini dengan nama:
+
+foto-01.jpg
+foto-02.jpg
+foto-03.jpg
+foto-04.jpg
+foto-05.jpg
+foto-06.jpg
+
+Foto otomatis menggantikan tempat foto pada album. Tidak perlu mengubah kode
+jika nama file sama dengan daftar di atas.
+
+Untuk mengganti caption, menambah jumlah foto, memakai nama lain, PNG/WebP,
+atau mengatur posisi wajah, edit bagian gallery di docs/config.js.
+
+Contoh satu baris:
+{ src: 'assets/album/foto-07.webp', alt: 'Rena bersama keluarga',
+  caption: 'Hari yang penuh cinta.', position: 'center top' }
+
+Tambahkan koma di antara baris. Foto yang belum tersedia tetap menjadi tempat
+foto ketika draft:true. Ketika draft:false, foto yang tidak tersedia tidak
+ditampilkan kepada tamu.
+
+Foto yang sudah terisi dapat diketuk untuk diperbesar. Tamu bisa memakai
+tombol Sebelumnya/Berikutnya atau menggeser foto di layar HP.
