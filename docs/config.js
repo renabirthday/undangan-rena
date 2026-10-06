@@ -39,5 +39,5 @@ window.INVITATION = {
   musicLoop: true,
   animations: true,
   // URL deployment Google Apps Script berakhiran /exec; lihat panduan.
-  rsvpUrl: ''
+  rsvpUrl: 'https://script.google.com/macros/s/AKfycbxG67I00eFwxpmv-xN24o48EwGJc0D8u3yI_mvnJTyYYaqwDrbhSBonj7DGk65DnTCg/exec'
 };
