@@ -12,10 +12,10 @@ window.INVITATION = {
   timeLabel: '11.00 WIB – selesai',
   venue: 'Citra Indah City Jonggol',
   address: 'Cluster Agave Blok i16 No. 15',
-  mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Citra%20Indah%20City%20Jonggol%20Cluster%20Agave%20Blok%20i16%20No.%2015',
+  mapsUrl: 'https://www.google.com/maps?q=-6.4554869,107.0386424&z=17&hl=en',
   // Cukup letakkan foto JPG bernama rena.jpg di docs/assets. Tempat foto tetap
   // terlihat bila berkas belum tersedia. Untuk nama/format lain, ubah nilai ini.
-  photo: 'assets/rena.jpg',
+  photo: 'assets/renabirthday1.jpeg',
   photoPosition: 'center',
   // Album: cukup masukkan foto-01.jpg sampai foto-06.jpg ke docs/assets/album.
   // Tambah/hapus baris untuk mengubah jumlah foto. Caption bebas Bos ubah.
